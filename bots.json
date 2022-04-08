@@ -1,0 +1,7 @@
+[
+    {
+        "name": "Rafleur",
+        "token": "process.env.TOKEN",
+        "adminIDs": "928008079667240971"
+    }
+]
